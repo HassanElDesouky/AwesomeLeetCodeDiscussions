@@ -8,7 +8,7 @@ There is a lot of **awesome** discussions that happen on LeetCode, there's also 
 
 Articles
 -----------------
-[Important and Useful links from all over the Leetcode by @wh0ami](https://leetcode.com/discuss/general-discussion/665604/important-and-useful)
+[Important and Useful links from all over the Leetcode by @deepika135](https://leetcode.com/discuss/general-discussion/665604/important-and-useful)
 
 [DP for beginners by @deepika135](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions) - [Questions List](https://leetcode.com/list/x1k8lxi5)
 
